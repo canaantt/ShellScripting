@@ -29,3 +29,14 @@ $vagrant // List options
         - $vagrant reload // a shortcut to call halt + up all together 
 ```
 
+## Random
+- from vm, /vagrant is shared with host
+- Vim: to go to a specific line `:<line_num>`
+- Vim: display line number `:set number` 
+- -rw-[owner]r--[group]r--[all]   1 jzhang[owner]  staff[group]  3287 Nov 23 18:45 Vagrantfile
+- r = 4; w = 2; x = 1 `chomd 755 <excutable_bash_file>`
+- something for `echo`
+    - single quotes => exact string within
+    - double quotes => variable will be interpreted
+- 
+
