@@ -42,7 +42,7 @@ $vagrant // List options
 - root UID is alway 0
 - Standard input - keyboard (default or from pipe); Standard output/error - screen
 - cat /etc/passwd 
-
+- ls -l /usr/bin/*sum
 
 
 
