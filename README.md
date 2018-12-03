@@ -43,7 +43,10 @@ $vagrant // List options
 - Standard input - keyboard (default or from pipe); Standard output/error - screen
 - cat /etc/passwd 
 - ls -l /usr/bin/*sum
-
-
+- file descriptor: devices work like files. pointers of sources of data or data can be written. 
+    - FD 0 - STIN
+    - FD 1 - STDOUT
+    - FD 2 - STDERR
+- 
 
 
